@@ -1641,6 +1641,7 @@ input, select, textarea {
 
 		.osama {
 			font-size: 15px;
+			margin-bottom: 120px;
 		}
 
 		body.is-article-visible #footer {
