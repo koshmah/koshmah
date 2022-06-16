@@ -1266,7 +1266,7 @@ input, select, textarea {
 			margin-top: 3.5rem;
 		}
 
-			#header > *:before {
+			/* #header > *:before {
 				content: '';
 				display: block;
 				position: absolute;
@@ -1275,7 +1275,7 @@ input, select, textarea {
 				width: 1px;
 				height: calc(3.5rem + 1px);
 				background: #ffffff;
-			}
+			} */
 
 		#header > :first-child {
 			margin-top: 0;
@@ -1470,7 +1470,7 @@ input, select, textarea {
 					-webkit-flex-direction: column;
 					-ms-flex-direction: column;
 					flex-direction: column;
-					min-width: 10rem;
+					min-width: 20rem;
 					max-width: 100%;
 				}
 
@@ -1640,7 +1640,7 @@ input, select, textarea {
 		}
 
 		.osama {
-			font-size: 22px;
+			font-size: 15px;
 		}
 
 		body.is-article-visible #footer {
